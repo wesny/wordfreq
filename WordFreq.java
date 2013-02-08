@@ -8,7 +8,7 @@ public class WordFreq{
     //Constructor: Takes an array of Strings and constructs the frequency array
     //***************************************************************************
     public WordFreq(String[] args){
-  _strings = countWordFreq(args);
+  	_strings = countWordFreq(args);
     } 
 
     //***************************************************************************
