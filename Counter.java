@@ -7,7 +7,7 @@ public class Counter implements Comparable{
     //Constructor
     //***************************************************************************
     public Counter(Object val, int freq){
-  _val = val;
+  	_val = val;
 	_freq = freq;
     }
 
